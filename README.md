@@ -1,4 +1,5 @@
-### 👇🏼 Stretch Scroll. Live: https://stretchscroll-msdtsjodj-alexanders-projects-433a7327.vercel.app/
+### 👇🏼 Stretch Scroll. 
+### Live: https://stretchscroll-msdtsjodj-alexanders-projects-433a7327.vercel.app/
 
 > **Smooth squish scrollin' math** - A Next.js GSAP experiment
 
