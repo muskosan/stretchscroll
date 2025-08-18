@@ -1,8 +1,8 @@
-### 👇🏼 Stretch Scroll
+### 👇🏼 Stretch Scroll. Live: https://stretchscroll-msdtsjodj-alexanders-projects-433a7327.vercel.app/
 
 > **Smooth squish scrollin' math** - A Next.js GSAP experiment
 
-#### ✨ Features
+#### ✨ Featuresgit s
 
 - **Dynamic Text Scaling** - Text elements that stretch and compress based on scroll position
 - **Smooth Scroll** - Buttery smooth scrolling powered by Lenis
