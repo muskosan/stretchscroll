@@ -48,7 +48,7 @@ export default function Page() {
       function calculateDynamicScale() {
         for (let i = 1; i <= 3; i++) {
           const section = containerRef.current?.querySelector(
-            `.sticky-text-${i}`
+            `.sticky-text-${i}` 
           );
           const text = containerRef.current?.querySelector(
             `.sticky-text-${i} .text-container h1`
