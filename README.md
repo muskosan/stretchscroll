@@ -12,13 +12,13 @@
 
 #### 🚀 Stack
 
-- **[Next.js 15.4.6](https://nextjs.org/)** - React framework for production
-- **[React 19.1.0](https://react.dev/)** - UI library
-- **[GSAP 3.13.0](https://gsap.com/)** - Professional animation library
-  - ScrollTrigger - Scroll-based animations
-  - SplitText - Text animation utilities
-- **[@gsap/react 2.1.2](https://gsap.com/docs/v3/React/)** - React integration for GSAP
-- **[Lenis 1.3.8](https://lenis.studiofreight.com/)** - Smooth scroll library
+- **[Next.js 15.4.6](https://nextjs.org/)** 
+- **[React 19.1.0](https://react.dev/)**
+- **[GSAP 3.13.0](https://gsap.com/)** 
+  - ScrollTrigger
+  - SplitText 
+- **[@gsap/react 2.1.2](https://gsap.com/docs/v3/React/)** 
+- **[Lenis 1.3.8](https://lenis.studiofreight.com/)**
 
 ---
 
